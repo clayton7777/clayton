@@ -1,0 +1,50 @@
+.intro1 {
+  height: 40vh;
+  background-image: rgb(230,230,230);
+}
+
+.title-1 {
+  font-family: Bakbak:cursive;
+  font-weight: 1000;
+  font-size: 15rem;
+  color:black;
+}
+
+.title-2{
+  font-weight: 10;
+  font-size: 2rem;
+  color: white;
+  background-color:teal;
+  font-family: Bakbak:cursive;
+
+  position: relative;
+  top: -1.5rem;
+}
+
+.title-3 {
+  font-family: Bakbak:cursive;
+  font-size: 2rem;
+  font-size: 1rem;
+  color:black;
+
+  position:relative;
+  top: -1.5rem;
+}
+
+.bod1 {
+  font-family: Bakbak:cursive;
+  width: 80vh;
+  height: 40vh;
+  background-color: rgb(230,230,230)
+}
+
+.image-container {
+  width:20vw;
+  height:20vw;
+  border-radius: 100%;
+box-shadow: 10px 5px 10px black;
+}
+
+.text21 {
+  padding-left: 15%;
+}
